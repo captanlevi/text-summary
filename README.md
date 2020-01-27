@@ -13,6 +13,11 @@ In this case we feed the model the target sequence and allow it to predict the n
 #### Non teacher forcing
 In this case the model has the same target, but at each step we feed the model the word it produced in previous time step. This is slower but helps achieve better results.
 
+```
+Read the Notebook for all the details and results
+
+```
+
 
   
 
